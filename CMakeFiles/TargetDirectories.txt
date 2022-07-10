@@ -1,0 +1,9 @@
+/home/paco/Dropbox/Universidad/segundo cuatri/IA/Practica2/programa_linux/practica2/CMakeFiles/BelkanSG.dir
+/home/paco/Dropbox/Universidad/segundo cuatri/IA/Practica2/programa_linux/practica2/CMakeFiles/Belkan.dir
+/home/paco/Dropbox/Universidad/segundo cuatri/IA/Practica2/programa_linux/practica2/CMakeFiles/obj3DLib.dir
+/home/paco/Dropbox/Universidad/segundo cuatri/IA/Practica2/programa_linux/practica2/CMakeFiles/edit_cache.dir
+/home/paco/Dropbox/Universidad/segundo cuatri/IA/Practica2/programa_linux/practica2/CMakeFiles/GLUILib.dir
+/home/paco/Dropbox/Universidad/segundo cuatri/IA/Practica2/programa_linux/practica2/CMakeFiles/modelosBelkanLib.dir
+/home/paco/Dropbox/Universidad/segundo cuatri/IA/Practica2/programa_linux/practica2/CMakeFiles/comportamientosLib.dir
+/home/paco/Dropbox/Universidad/segundo cuatri/IA/Practica2/programa_linux/practica2/CMakeFiles/rebuild_cache.dir
+/home/paco/Dropbox/Universidad/segundo cuatri/IA/Practica2/programa_linux/practica2/CMakeFiles/motorLib.dir
